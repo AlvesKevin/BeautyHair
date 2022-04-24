@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'beautyHair'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B84A45D6FFAC42BB87E4699253CB8ACD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53DD8972E3964854943D9957C6CFEB36 }}
           package: .
